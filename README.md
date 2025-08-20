@@ -1,4 +1,4 @@
-# 🙏 GratiLog - Gratitude Journaling on Internet Computer
+# GratiLog - Gratitude Journaling on Internet Computer
 
 GratiLog is a modern, production-ready gratitude journaling application built on the Internet Computer blockchain. It combines personal reflection with community connection, allowing users to maintain private gratitude journals while optionally sharing entries with a supportive community.
 
